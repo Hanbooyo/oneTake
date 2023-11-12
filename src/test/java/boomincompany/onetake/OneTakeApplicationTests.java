@@ -8,6 +8,7 @@ class OneTakeApplicationTests {
 
     @Test
     void contextLoads() {
+
     }
 
 }
